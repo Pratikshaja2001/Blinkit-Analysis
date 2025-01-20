@@ -20,7 +20,7 @@ The project focuses on analyzing key performance indicators (KPIs) and trends in
 3. Number of Items: The total count of Differents item sold.
 4. Average Rating : The average customer rating for items sold.
 
-Chart's Requirements -
+## Chart's Requirements -
 1. Total sales by fat content :
    Objective: Analyze the impact of fat content on total sales.
    Additional KPI matrics : Assess how other KPI's (Average sales ,number of items, average rating) vary with fat contant
@@ -46,7 +46,9 @@ Chart's Requirements -
      Objective : Provide a comprehensive view of all key metrics (Total sales, average Sales, Number of items , Average Rating)
      Broken down by different outlate types.
      Chart Type : Matrix Card
-    
+
+## Dashboard -
+
    
    
     
