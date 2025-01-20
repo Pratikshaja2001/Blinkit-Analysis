@@ -48,6 +48,10 @@ The project focuses on analyzing key performance indicators (KPIs) and trends in
      Chart Type : Matrix Card
 
 ## Dashboard -
+![Image](https://github.com/user-attachments/assets/ca227edb-0f36-456a-bcf2-3cc59f9ce0db)
+
+## Conclusion -
+
 
    
    
